@@ -14,7 +14,7 @@ Smart Contracts: Learn Plutus basics.
 
 Clone the repository:
 
-git clone: git@github.com:trinhtrang2710/cardano-basics.git
+git clone git@github.com:trinhtrang2710/cardano-basics.git
 cd cardano-basics
 
 Dive into the guides.
